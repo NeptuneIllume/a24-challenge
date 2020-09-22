@@ -1,6 +1,5 @@
-import React, { useState } from 'react';
-import { Box, Button, List, ListItem } from '@chakra-ui/core';
-import { css } from '@emotion/core';
+import React from 'react';
+import { Box } from '@chakra-ui/core';
 import { Switch, Route } from 'react-router-dom';
 
 import Header from './components/Header';

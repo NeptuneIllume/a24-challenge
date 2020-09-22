@@ -2,6 +2,7 @@
   "name": "airtame-movies-challenge",
   "version": "0.1.0",
   "private": true,
+  "homepage": "/wp-content/plugins/a24-challenge/widget/build",
   "dependencies": {
     "@chakra-ui/core": "^0.8.0",
     "@emotion/core": "^10.0.35",
